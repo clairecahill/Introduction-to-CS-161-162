@@ -1,0 +1,20 @@
+Largest state by population: 
+1
+Largest county by population: 
+Counties with income above minimum income: 
+Benton
+Lane
+Anderson
+Pickens
+Average house cost for Benton: 250000
+Average house cost for Lane: 150000
+Average house cost for Anderson: 80000
+Average house cost for Pickens: 20000
+States alphabetically: 
+Oregon 
+South_Carolina 
+States by population: 
+Oregon
+South_Carolina
+Oregon counties by population: 
+South_Carolina counties by population: 
